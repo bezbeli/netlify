@@ -1,7 +1,7 @@
 ---
 title: "Making plans for Nigel"
 date: 2016-12-17T15:04:10.000Z
-description: We only want whats best for him.
+description: We only want what's best for him.
 image: /img/blog-flavor_wheel.jpg
 ---
 
